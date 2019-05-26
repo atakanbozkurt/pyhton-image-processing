@@ -1,0 +1,5 @@
+Images in folder sample_images1 are used to apply convolution, taking the derivative and gradient of the image to extract the edges out of from the image.
+
+Images in folder sample_images2 are used to apply segmentation according to different thresholds. Then figuring out which threshold is the best depending on ground truth(using Pathagoras Theorem)
+
+Jupyter Lab, Pyhton
